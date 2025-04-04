@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pytorch/ML models
+*.pt
+*.pth
+*.bin
+*.h5
+*.onnx
+*.mlmodel
+pytorch_model.bin
+model_state_dict.pt
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings
+
+# AWS
+.aws/
+.aws-sam/
+samconfig.toml
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Docker
+.dockerignore
+Dockerfile.dev
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.zip
+*.tar.gz
+node_modules/
+
+# Hack-specific
+response.json
+*_temp/ 

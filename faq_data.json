@@ -1,0 +1,62 @@
+[
+  {
+    "question": "¿Qué es el QNH?",
+    "answer": "El QNH es un ajuste del altímetro que permite que el instrumento indique la altitud sobre el nivel medio del mar. Se obtiene de la presión atmosférica local corregida al nivel del mar según la atmósfera estándar internacional."
+  },
+  {
+    "question": "¿Qué es el QFE?",
+    "answer": "El QFE es el valor de la presión atmosférica al nivel del aeródromo. Cuando se ajusta un altímetro con el QFE, este marca cero cuando la aeronave está en tierra en el aeródromo."
+  },
+  {
+    "question": "¿Qué es la MEL?",
+    "answer": "La MEL (Minimum Equipment List) es una lista que especifica los equipos e instrumentos que pueden estar inoperativos para que una aeronave pueda despegar con seguridad. Es específica para cada tipo de aeronave y debe ser aprobada por la autoridad aeronáutica."
+  },
+  {
+    "question": "¿Qué significa ATIS?",
+    "answer": "ATIS (Automatic Terminal Information Service) es un servicio automático de radiodifusión que proporciona información meteorológica y operativa continua a las aeronaves que llegan y salen de un aeropuerto."
+  },
+  {
+    "question": "¿Qué es un NOTAM?",
+    "answer": "Un NOTAM (Notice to Airmen) es un aviso que contiene información esencial para el personal relacionado con operaciones de vuelo. Incluye cambios en instalaciones aeronáuticas, servicios, procedimientos o peligros."
+  },
+  {
+    "question": "¿Qué es la altitud de transición?",
+    "answer": "La altitud de transición es la altitud a la cual o por debajo de la cual la posición vertical de una aeronave se controla por referencia a altitudes (con el QNH). Por encima de esta, se utiliza el nivel de vuelo (con QNE 1013.25 hPa)."
+  },
+  {
+    "question": "¿Qué significa METAR?",
+    "answer": "METAR (Meteorological Aerodrome Report) es un informe meteorológico rutinario para la aviación. Proporciona información sobre condiciones meteorológicas observadas en un aeródromo en un momento específico."
+  },
+  {
+    "question": "¿Qué es el TAF?",
+    "answer": "El TAF (Terminal Aerodrome Forecast) es un pronóstico meteorológico de aeródromo que describe las condiciones esperadas durante un período específico, generalmente de 24 a 30 horas."
+  },
+  {
+    "question": "¿Qué es la ILS?",
+    "answer": "El ILS (Instrument Landing System) es un sistema de ayuda a la navegación que proporciona guía de precisión a una aeronave durante la aproximación y aterrizaje. Consta de un localizador (guía lateral) y una senda de planeo (guía vertical)."
+  },
+  {
+    "question": "¿Qué es la TCAS?",
+    "answer": "TCAS (Traffic Collision Avoidance System) es un sistema de a bordo diseñado para reducir la incidencia de colisiones entre aeronaves. Monitorea el espacio aéreo alrededor de una aeronave y advierte a los pilotos sobre la presencia de otras aeronaves que pueden presentar una amenaza de colisión."
+  },
+  {
+    "question": "¿Qué son los ATFM?",
+    "answer": "ATFM (Air Traffic Flow Management) es la gestión de flujo de tránsito aéreo, un servicio que optimiza el flujo del tránsito aéreo hacia y a través de áreas durante períodos en que la demanda excede o se prevé que exceda la capacidad disponible del sistema ATC."
+  },
+  {
+    "question": "¿Qué es un plan de vuelo?",
+    "answer": "Un plan de vuelo es información específica proporcionada a las dependencias de los servicios de tránsito aéreo con respecto a un vuelo previsto o parte de un vuelo de una aeronave. Incluye datos como la identificación de la aeronave, reglas de vuelo, tipo de vuelo, equipo, aeródromo de salida y destino, ruta, velocidad, nivel, etc."
+  },
+  {
+    "question": "¿Qué es el FIR?",
+    "answer": "FIR (Flight Information Region) es una región de información de vuelo, un espacio aéreo de dimensiones definidas dentro del cual se proporcionan servicio de información de vuelo y servicio de alerta."
+  },
+  {
+    "question": "¿Qué significa ICAO?",
+    "answer": "ICAO (International Civil Aviation Organization) u OACI en español, es la Organización de Aviación Civil Internacional, un organismo especializado de las Naciones Unidas que establece normas y reglamentos internacionales para la seguridad, eficiencia y regularidad de la aviación civil internacional."
+  },
+  {
+    "question": "¿Qué son las SID y STAR?",
+    "answer": "SID (Standard Instrument Departure) es una ruta normalizada de salida por instrumentos. STAR (Standard Terminal Arrival Route) es una ruta normalizada de llegada por instrumentos. Ambas son procedimientos publicados que estandarizan el flujo de tráfico aéreo."
+  }
+] 
