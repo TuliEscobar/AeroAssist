@@ -1,0 +1,19 @@
+[
+    {
+      "pregunta": "¿Cuál es el límite de horas de vuelo para un piloto comercial?",
+      "respuesta": "El límite es de 100 horas en 28 días consecutivos y 1000 horas por año calendario."
+    },
+    {
+      "pregunta": "¿Qué es una zona restringida?",
+      "respuesta": "Es un área del espacio aéreo donde se permite el vuelo solo con autorización específica por razones de seguridad."
+    },
+    {
+        "pregunta": "¿Cuáles son los requisitos básicos para obtener una licencia de piloto privado?",
+        "respuesta": "Los requisitos básicos incluyen: tener al menos 17 años, acreditar estudios secundarios, aprobar exámenes médicos, completar el curso teórico, acumular horas de vuelo mínimas requeridas y aprobar exámenes prácticos y teóricos."
+    },
+    {
+        "pregunta": "¿Qué documentación debe llevar un piloto durante el vuelo?",
+        "respuesta": "Un piloto debe llevar: licencia de piloto vigente, certificado médico aeronáutico, documento de identidad, plan de vuelo (cuando aplique), documentación de la aeronave y cartas de navegación pertinentes."
+    }
+  ]
+  
